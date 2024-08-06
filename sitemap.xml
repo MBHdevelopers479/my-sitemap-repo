@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/p/privacy-policy-last-updated-august-05.html</loc>
+    <lastmod>2024-08-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/p/about-us.html</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/p/contact-us.html</loc>
+    <lastmod>2024-08-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/search?q=drug</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/search?q=blockchain</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://techytrendtoday.blogspot.com/search?q=education</loc>
+    <lastmod>2024-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Add more URL entries with appropriate values here -->
+</urlset>
